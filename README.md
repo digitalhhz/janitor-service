@@ -1,3 +1,5 @@
+Link to original repository: https://github.com/katjanein91/hhz-hackathon-window-sensor
+
 # node-enocean-server-template
 a template for a full enocean home automation server.
 to use it clone this repository:
